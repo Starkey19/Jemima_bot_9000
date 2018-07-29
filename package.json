@@ -1,0 +1,25 @@
+{
+  "name": "jemima_bot",
+  "version": "1.0.0",
+  "description": "Discord bot",
+  "main": "Jemima.js",
+  "dependencies": {
+    "discord.js": "^11.3.2",
+    "node-opus": "^0.3.0",
+    "ytdl-core": "^0.21.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Starkey19/Jemima_bot_9000.git"
+  },
+  "author": "Josh Starkey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Starkey19/Jemima_bot_9000/issues"
+  },
+  "homepage": "https://github.com/Starkey19/Jemima_bot_9000#readme"
+}
